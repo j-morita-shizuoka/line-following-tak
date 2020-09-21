@@ -7,3 +7,6 @@ Cognitive Modeling of Automation Adaptation in a Time Critical Task
 	DOI: 10.3389/fpsyg.2020.02149
   
   https://www.frontiersin.org/articles/10.3389/fpsyg.2020.02149/
+  
+The demo movie is available at Youtube.
+  https://youtu.be/Kf3vIuZ2-QQ
